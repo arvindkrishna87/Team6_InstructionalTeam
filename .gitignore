@@ -1,4 +1,5 @@
 .DS_Store
 Thumbs.db
 desktop.ini
-__pycache__
+__pycache_
+KimiaNet.pth_
